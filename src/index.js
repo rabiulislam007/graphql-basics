@@ -21,6 +21,11 @@ const users = [
     name: "Mike",
     email: "mike@example.com",
   },
+    {
+    id: "4",
+    name: "John",
+    email: "John@example.com",
+  },
 ];
 
 const posts = [
