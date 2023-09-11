@@ -21,10 +21,15 @@ const users = [
     name: "Mike",
     email: "mike@example.com",
   },
-    {
+  {
     id: "4",
     name: "John",
     email: "John@example.com",
+  },
+  {
+    id: "5",
+    name: "Karla",
+    email: "Karla@example.com",
   },
 ];
 
