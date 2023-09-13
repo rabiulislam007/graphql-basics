@@ -82,6 +82,12 @@ const comments = [
     author: "1",
     post: "11",
   },
+  {
+    id: "106",
+    text: "Hi there!!!!",
+    author: "2",
+    post: "11",
+  },
 ];
 
 // Type definitions (schema)
